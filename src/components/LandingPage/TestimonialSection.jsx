@@ -1,3 +1,7 @@
+/**
+ * Homepage testimonials. Not currently rendered from Home.jsx.
+ * Photos: public/landing/testimonial_images/. Edit the `testimonials` array.
+ */
 import TestimonialCard from "./TestimonialCard";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

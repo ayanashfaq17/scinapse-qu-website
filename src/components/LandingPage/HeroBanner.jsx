@@ -1,3 +1,6 @@
+/**
+ * Homepage hero. Primary CTAs currently point at /stem-horizons and /uscc.
+ */
 import RippleButton from "../UI/RippleButton";
 import { motion } from "framer-motion";
 import FluidText from "../CoreWeb/FluidText";

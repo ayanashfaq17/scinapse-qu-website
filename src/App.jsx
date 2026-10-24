@@ -1,3 +1,8 @@
+/**
+ * App shell: boot loader, React Router, navbar/footer, Vercel Analytics.
+ * Add routes here and a matching Link in CoreWeb/Navbar.jsx.
+ * Production SPA fallback is vercel.json (all paths → index.html).
+ */
 import { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import useAppBoot from "./hooks/useAppBoot";

@@ -1,3 +1,7 @@
+/**
+ * `/team`. Roster in src/data/teamData.js, photos in public/team/YYYY-YYYY/.
+ * Update the heading year when the executive year changes.
+ */
 import TeamCard from "../components/TeamPage/TeamCard";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../utils/motionVariants";

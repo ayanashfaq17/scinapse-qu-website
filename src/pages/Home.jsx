@@ -1,3 +1,8 @@
+/**
+ * `/` landing page.
+ * Upcoming events: LandingPage/EventSection.jsx
+ * TestimonialSection exists but is not mounted here.
+ */
 import HeroBanner from "../components/LandingPage/HeroBanner";
 import EventSection from "../components/LandingPage/EventSection";
 import AboutSection from "../components/LandingPage/AboutSection";

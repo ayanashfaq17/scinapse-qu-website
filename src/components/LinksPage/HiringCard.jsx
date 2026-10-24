@@ -1,3 +1,7 @@
+/**
+ * Links-page hiring card. Currently closed: button disabled, pulse indicator commented out.
+ * When applications open, restore the pulse, enable the button, and point it at the form URL.
+ */
 import { ArrowRight, Briefcase } from "lucide-react";
 import RippleButton from "../UI/RippleButton";
 

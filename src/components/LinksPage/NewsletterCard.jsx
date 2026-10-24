@@ -1,3 +1,6 @@
+/**
+ * Newsletter UI only. Submit does not save the address. Wire a provider here if needed.
+ */
 import { useState } from "react";
 import { Mail } from "lucide-react";
 import RippleButton from "../UI/RippleButton";

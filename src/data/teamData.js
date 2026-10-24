@@ -1,3 +1,8 @@
+/**
+ * Executive roster for /team.
+ * Photos: public/team/YYYY-YYYY/<firstname><lastname>.webp
+ * When the exec year changes, add a new photo folder and update the heading in src/pages/Team.jsx.
+ */
 export const teamMembers = [
   {
     name: "Tulassi Vije",

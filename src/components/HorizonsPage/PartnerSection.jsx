@@ -1,3 +1,6 @@
+/**
+ * STEM Horizons partner block (QALC). Update hrefs and public/horizons/qalc.png as needed.
+ */
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";
 import RippleButton from "../UI/RippleButton";

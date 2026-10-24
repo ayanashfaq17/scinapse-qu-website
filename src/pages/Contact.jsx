@@ -1,3 +1,7 @@
+/**
+ * `/contact`. Builds a mailto: to scinapse@clubs.queensu.ca.
+ * Nothing is stored or sent from the server. Change the address in this file and Footer.jsx.
+ */
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../utils/motionVariants";

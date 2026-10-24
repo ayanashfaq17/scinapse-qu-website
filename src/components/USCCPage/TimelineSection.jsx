@@ -1,8 +1,11 @@
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";
 
-// These dates are used to determine the status of each step in the timeline
-// Format: YYYY-MM-DDTHH:mm:ssZ
+/**
+ * USCC timeline. Change the date constants (ISO UTC) each year.
+ * Open / current / completed labels are derived from `now` vs those dates.
+ * Registration URLs: national SciNapse site + Queen’s Google Form.
+ */
 const uscc_registration_end_date = new Date("2025-10-30T23:59:59Z"); // USCC registration end date
 const written_round_start_date = new Date("2025-11-01T23:59:59Z"); // Written round start date
 const written_round_submission_date = new Date("2025-11-22T23:59:59Z"); // Written round submission date

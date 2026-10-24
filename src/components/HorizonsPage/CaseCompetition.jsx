@@ -1,3 +1,6 @@
+/**
+ * STEM Horizons case-competition copy and timeline (hardcoded in this file).
+ */
 import { motion } from "framer-motion";
 import {
   Users,

@@ -1,3 +1,7 @@
+/**
+ * `/gallery`. Albums come from src/data/galleryEvents.js (generated from Vercel Blob).
+ * See docs/CONTENT.md for how to add photos.
+ */
 import EventSection from "../components/GalleryPage/EventSection.jsx";
 import HeroBanner from "../components/GalleryPage/HeroBanner.jsx";
 import "../CSS/gallery.css";

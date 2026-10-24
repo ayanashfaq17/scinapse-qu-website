@@ -1,3 +1,6 @@
+/**
+ * Links-page USCC card. Keep the registration href in sync with TimelineSection and ResourcesSection.
+ */
 import { ArrowRight, Users } from "lucide-react";
 import RippleButton from "../UI/RippleButton";
 

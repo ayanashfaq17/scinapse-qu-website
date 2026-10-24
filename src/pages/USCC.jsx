@@ -1,3 +1,6 @@
+/**
+ * `/uscc`. Dates in USCCPage/TimelineSection.jsx, FAQ in FAQSection.jsx.
+ */
 import AboutSection from "../components/USCCPage/AboutSection";
 import FAQSection from "../components/USCCPage/FAQSection";
 import TimelineSection from "../components/USCCPage/TimelineSection";

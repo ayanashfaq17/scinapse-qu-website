@@ -1,3 +1,6 @@
+/**
+ * STEM Horizons day-of schedule. Edit `scheduleItems` (`time`, `title`, `description`, `type`).
+ */
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";
 

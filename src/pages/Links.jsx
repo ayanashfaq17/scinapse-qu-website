@@ -1,3 +1,7 @@
+/**
+ * `/links`. Hiring, newsletter stub, USCC card, and resource URLs.
+ * Newsletter does not persist emails. Hiring open/closed is toggled in HiringCard.jsx.
+ */
 import HiringCard from "../components/LinksPage/HiringCard";
 import NewsletterCard from "../components/LinksPage/NewsletterCard";
 import USCCCard from "../components/LinksPage/USCCCard";

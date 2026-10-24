@@ -1,3 +1,6 @@
+/**
+ * `/about`. Counters in src/data/statData.js, mission copy in AboutPage/MissionStatement.jsx.
+ */
 import StatSection from "../components/AboutPage/StatSection";
 import MissionStatement from "../components/AboutPage/MissionStatement";
 

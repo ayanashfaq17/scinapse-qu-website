@@ -1,3 +1,7 @@
+/**
+ * Homepage “Upcoming Events”. Edit the `events` array below.
+ * Images: public/landing/event_images/. `sortDate` controls display order.
+ */
 import EventCard from "./EventCard";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

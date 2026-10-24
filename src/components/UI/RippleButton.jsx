@@ -1,3 +1,6 @@
+/**
+ * Shared CTA. Pass `href` for in-app (`/path`) or external (`https://`) links; omit href for a real <button>.
+ */
 import React, { useRef } from "react";
 import { useNavigate } from "react-router-dom";
 

@@ -1,3 +1,7 @@
+/**
+ * Site footer: club email, national USCC links, socials.
+ * Newsletter form is a stub (does not save emails). Keep mailto in sync with Contact.jsx.
+ */
 import { FaInstagram, FaLinkedin, FaDiscord, FaFacebook } from "react-icons/fa";
 import RippleButton from "../UI/RippleButton";
 
@@ -171,7 +175,7 @@ export default function Footer() {
               onSubmit={(e) => {
                 e.preventDefault();
                 const email = e.target.email.value;
-                // TODO: Send email to backend/API here
+                // Stub: no newsletter backend. See NewsletterCard.jsx and docs/CONTENT.md.
                 console.log("Submitted email:", email);
               }}
               className="flex flex-col sm:flex-row items-start sm:items-center gap-2"

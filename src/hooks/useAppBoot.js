@@ -1,3 +1,7 @@
+/**
+ * Preloads the hero image and the first gallery thumbnails before hiding the boot loader.
+ * Always finishes (including on image errors) so the app cannot stick on the loader.
+ */
 import { useEffect, useState } from "react";
 import { events } from "../data/galleryEvents";
 

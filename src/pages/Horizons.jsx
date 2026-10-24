@@ -1,3 +1,6 @@
+/**
+ * `/stem-horizons`. Speakers, schedule, and case copy live in HorizonsPage/*.
+ */
 import HeroBanner from "../components/HorizonsPage/HeroBanner";
 import CaseCompetition from "../components/HorizonsPage/CaseCompetition";
 import ConferenceSchedule from "../components/HorizonsPage/ConferenceSchedule";

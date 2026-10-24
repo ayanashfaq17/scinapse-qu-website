@@ -1,3 +1,6 @@
+/**
+ * Homepage about blurb + gallery preview strip (uses galleryEvents data).
+ */
 import { useRef } from "react";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

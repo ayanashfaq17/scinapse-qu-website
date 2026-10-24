@@ -1,3 +1,6 @@
+/**
+ * STEM Horizons hero. Partner/ticket links live here (currently Linktree for QALC).
+ */
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";
 import RippleButton from "../UI/RippleButton";

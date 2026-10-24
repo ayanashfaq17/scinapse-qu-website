@@ -1,3 +1,6 @@
+/**
+ * GSAP ScrollSmoother wrapper used in App.jsx. Do not nest another one.
+ */
 "use client";
 
 import React, { useEffect } from "react";

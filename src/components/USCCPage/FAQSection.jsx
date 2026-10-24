@@ -1,3 +1,6 @@
+/**
+ * USCC FAQ. Edit the `faqs` array below.
+ */
 import { useState } from "react";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

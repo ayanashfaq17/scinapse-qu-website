@@ -1,3 +1,6 @@
+/**
+ * About-page mission copy. Stats next to this section come from src/data/statData.js.
+ */
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";
 import RippleButton from "../UI/RippleButton";

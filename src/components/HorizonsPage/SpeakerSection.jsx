@@ -1,3 +1,6 @@
+/**
+ * STEM Horizons speakers. Edit `speakers`; photos in public/horizons/speakers/.
+ */
 import { useState } from "react";
 import { createPortal } from "react-dom";
 import { motion } from "framer-motion";

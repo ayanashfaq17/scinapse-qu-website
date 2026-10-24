@@ -1,3 +1,6 @@
+/**
+ * One gallery album. Data shape comes from galleryEvents.js (`title`, `date`, `images`).
+ */
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import MasonryGrid from "./MasonryGrid.jsx";

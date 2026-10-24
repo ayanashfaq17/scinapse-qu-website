@@ -1,3 +1,6 @@
+/**
+ * Resource link lists on /links. Update URLs in the `resources` array.
+ */
 import { ExternalLink, Cpu } from "lucide-react";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

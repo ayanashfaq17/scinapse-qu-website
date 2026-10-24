@@ -1,3 +1,6 @@
+/**
+ * USCC intro section. Registration CTA is currently disabled; enable when the cycle is open.
+ */
 import { useRef } from "react";
 import { motion } from "framer-motion";
 import { slideUpVariant } from "../../utils/motionVariants";

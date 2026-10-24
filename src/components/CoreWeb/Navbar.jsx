@@ -1,3 +1,7 @@
+/**
+ * Site header. Add routes to the <ul> (and the mobile menu below).
+ * Ticket / “happening now” chip is commented out near the desktop CTAs. Uncomment for live events.
+ */
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import RippleButton from "../UI/RippleButton";

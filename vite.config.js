@@ -1,3 +1,6 @@
+/**
+ * Vite + React. Gzip/brotli plugins run at build time for Vercel static hosting.
+ */
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import compression from "vite-plugin-compression";
