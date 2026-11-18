@@ -14,7 +14,7 @@ const fs = require("fs");
 const { list } = require("@vercel/blob");
 
 const RW_TOKEN = process.env.VERCEL_BLOB_READ_WRITE_TOKEN;
-const BLOB_HOST = "sqfvtb9y6up1eyj2.public.blob.vercel-storage.com";
+const BLOB_HOST = "ctwaenhc997bpxuf.public.blob.vercel-storage.com";
 
 if (!RW_TOKEN) {
   console.error(
